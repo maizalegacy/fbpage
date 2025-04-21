@@ -1,7 +1,7 @@
 # Facebook login page
 
-A Pen created on CodePen.
+For security study and practising
 
-Original URL: [https://codepen.io/sanketbodke/pen/abyyPNa](https://codepen.io/sanketbodke/pen/abyyPNa).
 
-Facebook login page, using HTML and CSS
+
+Facebook login page, using HTML and CSS (not based of PHP)
